@@ -64,3 +64,8 @@ This MATLAB-based audio equalizer project for DSP Course.
 
 1. GUI Version
 2. Command Line Version
+
+## Test Cases
+
+![Screenshot 2025-05-12 072443](https://github.com/user-attachments/assets/de14239b-9c2e-42d6-82fc-3344f002cef6)
+![Screenshot 2025-05-12 072632](https://github.com/user-attachments/assets/f2529c44-c5d3-4610-aa3c-968763759611)
